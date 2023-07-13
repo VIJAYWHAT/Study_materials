@@ -1,0 +1,63 @@
+API - Application Programming Interface 
+
+It's a Intermediary Software
+
+- An application programming interface (API) is a way for two or more computer programs to communicate with each other.
+
+- An API is a set of programming code that enables data transmission between one software product and another. It also contains the terms of this data exchange.
+ 
+- APIs are a set of functions and procedures that allow for the creation of applications.
+
+- Mobile app  to access data from a DB
+- Website to access a 3rd party service
+
+- API used in Web development,mobile app development and Data analysis
+
+
+How do APIs work?
+	- The working principle of APIs is commonly expressed through the request-response communication between a client and a server. The client is any front-end application that a user interacts with. The server is in charge of backend logic and database operations. In this scenario, an API works as a middle layer between the client and the server, making it possible to send data requests and responses.
+
+==> https://content.altexsoft.com/media/2019/06/1.png
+
+The main types of APIs are :-
+
+- Public or Open API
+- Private or Internal API
+- partner API
+- Composite API
+
+Open API: Publicly accessible APIs with no restrictions. 
+
+Partner API: These types of API is not open to the public, Restricted APIs for business partners and clients.access is restricted through the use of specific licenses.
+
+Private API: Internal APIs used within a single company. 
+
+Composite API: Combine data and services to streamline tasks.
+
+API Types by use cases 
+
+Database APIs --> Database APIs enable communication between an application and a database management system.
+
+Operating systems APIs --> how applications use the resources and services of operating systems.
+
+Remote APIs --> Remote APIs define standards of interaction for applications running on different machines.
+
+Web APIs --> Web APIs provide machine-readable data and functionality transfer between web-based systems which represent client-server architecture
+
+https://content.altexsoft.com/media/2019/06/3.png
+
+It's different from WebApp 
+===================================================================
+Web App                | Web API
+=======================|===========================================
+- It's a website       |- It's Service 
+- UI and Data in HTML  |- JSON Or XML
+- Complete Application |- Data Flow 
+- Call API as service  |- It's does not call WebApp
+- Rendered in Browser  |- It can be used in mobile app,
+		       | backend in javascript framework web app,
+		       | can be part of webapp
+===================================================================
+
+
+
